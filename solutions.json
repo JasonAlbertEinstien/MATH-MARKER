@@ -1,0 +1,642 @@
+[
+  {
+    "problem_index": 0,
+    "question": "1 + 10",
+    "actual_answer": "11",
+    "level": "Primary",
+    "generated_solution": "Let's solve the problem step by step:\n\n1. Start with the numbers: 1 and 10.\n2. Add them together: \\( 1 + 10 = 11 \\).\n\nFINAL_ANSWER: 11",
+    "generated_answer": "5"
+  },
+  {
+    "problem_index": 1,
+    "question": "10 * 12",
+    "actual_answer": "120",
+    "level": "Primary",
+    "generated_solution": "To solve the problem \\(10 \\times 12\\), follow these steps:\n\n1. Multiply 10 by 12:\n   \\[\n   10 \\times 12 = 120\n   \\]\n\nFINAL_ANSWER: 120",
+    "generated_answer": "100"
+  },
+  {
+    "problem_index": 2,
+    "question": "What is the fractional part of 3.13?",
+    "actual_answer": "0.13",
+    "level": "Primary",
+    "generated_solution": "To find the fractional part of a number, we subtract the integer part of the number from the number itself. Here's the step-by-step solution:\n\n1. The number is **3.13**.\n2. The integer part of **3.13** is **3**.\n3. Subtract the integer part from the number:  \n   \\( 3.13 - 3 = 0.13 \\).\n\nThe fractional part of **3.13** is **0.13**. In fractional form, this is \\( \\frac{13}{100} \\).\n\nFINAL_ANSWER: \\( \\frac{13}{100} \\) or 0.13",
+    "generated_answer": "\\( \\frac{13}{100} \\) or 0.13"
+  },
+  {
+    "problem_index": 3,
+    "question": "What is 20 / 4 ",
+    "actual_answer": "5",
+    "level": "Primary",
+    "generated_solution": "To solve the problem \\( 20 \\div 4 \\), follow these steps:\n\n1. Divide 20 by 4.\n2. \\( 20 \\div 4 = 5 \\).\n\nFINAL_ANSWER: 5",
+    "generated_answer": "5"
+  },
+  {
+    "problem_index": 4,
+    "question": "Leo has 6 bananas and shares 3 with Emma. How many bananas does Emma have if she originally has 2 bananas?",
+    "actual_answer": "5",
+    "level": "Primary",
+    "generated_solution": "Let's solve the problem step by step:\n\n1. **Leo's bananas**: Leo has 6 bananas.\n2. **Bananas shared with Emma**: Leo shares 3 bananas with Emma.\n3. **Emma's original bananas**: Emma originally has 2 bananas.\n4. **Total bananas Emma has after receiving from Leo**:  \n   Emma's original bananas + bananas received from Leo = 2 + 3 = 5 bananas.\n\nFINAL_ANSWER: 5",
+    "generated_answer": "5"
+  },
+  {
+    "problem_index": 5,
+    "question": "If you have 24 candies and want to share them equally among 6 friends, how many candies does each friend get?",
+    "actual_answer": "4",
+    "level": "Primary",
+    "generated_solution": "To solve this problem, we need to divide the total number of candies by the number of friends.\n\n1. Total number of candies = 24  \n2. Number of friends = 6  \n3. Candies per friend = Total candies \u00f7 Number of friends  \n   = 24 \u00f7 6  \n   = 4  \n\nEach friend gets 4 candies.\n\nFINAL_ANSWER: 4",
+    "generated_answer": "4"
+  },
+  {
+    "problem_index": 6,
+    "question": "What is1/2\u200b+1/4\u200b?",
+    "actual_answer": "3/4",
+    "level": "Primary",
+    "generated_solution": "To solve the problem \\( \\frac{1}{2} + \\frac{1}{4} \\), follow these steps:\n\n1. **Find a common denominator**: The denominators are 2 and 4. The least common denominator (LCD) is 4.\n\n2. **Convert the fractions to have the same denominator**:\n   - \\( \\frac{1}{2} \\) becomes \\( \\frac{2}{4} \\) because \\( \\frac{1 \\times 2}{2 \\times 2} = \\frac{2}{4} \\).\n   - \\( \\frac{1}{4} \\) remains \\( \\frac{1}{4} \\).\n\n3. **Add the fractions**:\n   \\[\n   \\frac{2}{4} + \\frac{1}{4} = \\frac{2 + 1}{4} = \\frac{3}{4}\n   \\]\n\n4. **Final answer**:\n   - Fractional form: \\( \\frac{3}{4} \\)\n   - Decimal form: 0.75\n\nFINAL_ANSWER: \\( \\frac{3}{4} \\) or 0.75",
+    "generated_answer": "\\( \\frac{3}{4} \\) or 0.75"
+  },
+  {
+    "problem_index": 7,
+    "question": "What is the next number 1 , 2 , 4 , 8 , _ ",
+    "actual_answer": "16",
+    "level": "Primary",
+    "generated_solution": "To solve this problem, let's analyze the sequence step by step:\n\n1. The sequence is: 1, 2, 4, 8, _  \n2. Observe the pattern:  \n   - 1 \u00d7 2 = 2  \n   - 2 \u00d7 2 = 4  \n   - 4 \u00d7 2 = 8  \n   - 8 \u00d7 2 = 16  \n\nThe sequence follows a pattern where each number is multiplied by 2 to get the next number.  \n\nFINAL_ANSWER: 16",
+    "generated_answer": "16"
+  },
+  {
+    "problem_index": 8,
+    "question": "How many sides does a triangle have",
+    "actual_answer": "3",
+    "level": "Primary",
+    "generated_solution": "To solve this problem, let's break it down step by step:\n\n1. A triangle is a type of polygon.\n2. The prefix \"tri-\" in \"triangle\" means \"three.\"\n3. Therefore, a triangle has three sides.\n\nFINAL_ANSWER: 3",
+    "generated_answer": "3"
+  },
+  {
+    "problem_index": 9,
+    "question": "If a movie starts at 3:15 PM and lasts for 2 hours and 30 minutes, what time does it end?",
+    "actual_answer": "05:45",
+    "level": "Primary",
+    "generated_solution": "To solve this problem, we will add the duration of the movie to the start time.\n\n1. **Start time**: 3:15 PM  \n2. **Duration**: 2 hours and 30 minutes  \n\n### Step-by-step solution:\n- Add 2 hours to the start time:  \n  3:15 PM + 2 hours = 5:15 PM  \n\n- Add 30 minutes to the result:  \n  5:15 PM + 30 minutes = 5:45 PM  \n\n### Final answer:\nThe movie ends at **5:45 PM**.  \n\nFINAL_ANSWER: 5:45 PM",
+    "generated_answer": "5:45 PM"
+  },
+  {
+    "problem_index": 10,
+    "question": "what is 88 + 15",
+    "actual_answer": "103",
+    "level": "Primary",
+    "generated_solution": "To solve the problem \\( 88 + 15 \\), follow these steps:\n\n1. Add the numbers in the ones place: \\( 8 + 5 = 13 \\). Write down 3 and carry over 1.\n2. Add the numbers in the tens place along with the carry-over: \\( 8 + 1 + 1 = 10 \\).\n3. Combine the results: \\( 103 \\).\n\nFINAL_ANSWER: 103",
+    "generated_answer": "103"
+  },
+  {
+    "problem_index": 11,
+    "question": "Given the length of a side of a square is 3, what is the area ?",
+    "actual_answer": "9",
+    "level": "Primary",
+    "generated_solution": "To find the area of a square, we use the formula:\n\n\\[\n\\text{Area} = \\text{side}^2\n\\]\n\nGiven the length of a side is 3, we substitute this value into the formula:\n\n\\[\n\\text{Area} = 3^2 = 9\n\\]\n\nThus, the area of the square is 9.\n\nFINAL_ANSWER: 9",
+    "generated_answer": "9"
+  },
+  {
+    "problem_index": 12,
+    "question": "What is 5 x 8",
+    "actual_answer": "40",
+    "level": "Primary",
+    "generated_solution": "To solve the problem \\( 5 \\times 8 \\), follow these steps:\n\n1. Multiply the two numbers:\n   \\[\n   5 \\times 8 = 40\n   \\]\n\nFINAL_ANSWER: 40",
+    "generated_answer": "40"
+  },
+  {
+    "problem_index": 13,
+    "question": "If you have 50 apples and give away 18, how many apples do you have left?",
+    "actual_answer": "32",
+    "level": "Primary",
+    "generated_solution": "To solve this problem, we subtract the number of apples given away from the total number of apples:\n\n1. Start with the total number of apples: 50  \n2. Subtract the number of apples given away: 18  \n3. Calculate the remaining apples: \\( 50 - 18 = 32 \\)  \n\nFINAL_ANSWER: 32",
+    "generated_answer": "32"
+  },
+  {
+    "problem_index": 14,
+    "question": "What is 6 \u00d7 4?",
+    "actual_answer": "24",
+    "level": "Primary",
+    "generated_solution": "To solve the problem \\( 6 \\times 4 \\), follow these steps:\n\n1. Multiply the two numbers:\n   \\[\n   6 \\times 4 = 24\n   \\]\n\n2. The result of \\( 6 \\times 4 \\) is 24.\n\nFINAL_ANSWER: 24",
+    "generated_answer": "24"
+  },
+  {
+    "problem_index": 15,
+    "question": "Sarah has 3 packs of stickers. Each pack contains 12 stickers. How many stickers does Sarah have in total?",
+    "actual_answer": "36",
+    "level": "Primary",
+    "generated_solution": "To solve this problem, we need to calculate the total number of stickers Sarah has by multiplying the number of packs by the number of stickers in each pack.\n\n1. **Number of packs**: 3  \n2. **Number of stickers per pack**: 12  \n\n3. **Total stickers**:  \n   \\( 3 \\times 12 = 36 \\)\n\nFINAL_ANSWER: 36",
+    "generated_answer": "36"
+  },
+  {
+    "problem_index": 16,
+    "question": "What is 27 + 15?",
+    "actual_answer": "42",
+    "level": "Primary",
+    "generated_solution": "Let's solve the problem step by step:\n\n1. Start with the two numbers: 27 and 15.\n2. Add the ones place: 7 + 5 = 12. Write down 2 and carry over 1.\n3. Add the tens place: 2 + 1 = 3, plus the carried-over 1 makes 4.\n4. Combine the results: 40 + 2 = 42.\n\nFINAL_ANSWER: 42",
+    "generated_answer": "42"
+  },
+  {
+    "problem_index": 17,
+    "question": "What is 30/6",
+    "actual_answer": "5",
+    "level": "Primary",
+    "generated_solution": "To solve the problem \\( \\frac{30}{6} \\), follow these steps:\n\n1. Divide 30 by 6.\n2. \\( 30 \\div 6 = 5 \\).\n\nThe result is 5.\n\nFINAL_ANSWER: 5",
+    "generated_answer": "5"
+  },
+  {
+    "problem_index": 18,
+    "question": "How many minutes are there in 3 hours and 15 minutes?",
+    "actual_answer": "195",
+    "level": "Primary",
+    "generated_solution": "To solve this problem, we need to convert hours into minutes and then add the remaining minutes.\n\n1. **Convert hours to minutes**:  \n   There are 60 minutes in 1 hour.  \n   So, for 3 hours:  \n   \\( 3 \\times 60 = 180 \\) minutes.\n\n2. **Add the remaining minutes**:  \n   We already have 15 minutes.  \n   So, total minutes = \\( 180 + 15 = 195 \\) minutes.\n\nFINAL_ANSWER: 195 minutes",
+    "generated_answer": "195 minutes"
+  },
+  {
+    "problem_index": 19,
+    "question": "If a school day starts at 8:30 AM and ends at 3:00 PM, how many hours long is the day? ",
+    "actual_answer": "6.5",
+    "level": "Primary",
+    "generated_solution": "To solve this problem, we calculate the time difference between the start and end of the school day.\n\n1. Start time: 8:30 AM  \n2. End time: 3:00 PM  \n\nFirst, convert both times to a 24-hour format for easier calculation:  \n- 8:30 AM = 08:30  \n- 3:00 PM = 15:00  \n\nNow subtract the start time from the end time:  \n15:00 - 08:30 = 6 hours and 30 minutes.  \n\nThe school day is **6 hours and 30 minutes** long.  \n\nFINAL_ANSWER: 6 hours and 30 minutes (or 6.5 hours).",
+    "generated_answer": "6 hours and 30 minutes (or 6.5 hours)."
+  },
+  {
+    "problem_index": 20,
+    "question": "Solve 3x+5 = 20",
+    "actual_answer": "5",
+    "level": "Middle",
+    "generated_solution": "To solve the equation \\( 3x + 5 = 20 \\), follow these steps:\n\n1. Subtract 5 from both sides of the equation to isolate the term with \\( x \\):\n   \\[\n   3x + 5 - 5 = 20 - 5\n   \\]\n   Simplifying this gives:\n   \\[\n   3x = 15\n   \\]\n\n2. Divide both sides by 3 to solve for \\( x \\):\n   \\[\n   \\frac{3x}{3} = \\frac{15}{3}\n   \\]\n   Simplifying this gives:\n   \\[\n   x = 5\n   \\]\n\nFINAL_ANSWER: \\( x = 5 \\)",
+    "generated_answer": "\\( x = 5 \\)"
+  },
+  {
+    "problem_index": 21,
+    "question": "Simplify 4(2x+3) - 5",
+    "actual_answer": "8x+7",
+    "level": "Middle ",
+    "generated_solution": "To simplify the expression \\(4(2x + 3) - 5\\), follow these steps:\n\n1. **Distribute the 4 into the parentheses**:\n   \\[\n   4(2x + 3) = 4 \\cdot 2x + 4 \\cdot 3 = 8x + 12\n   \\]\n\n2. **Subtract 5 from the result**:\n   \\[\n   8x + 12 - 5 = 8x + 7\n   \\]\n\nThe simplified form of the expression is \\(8x + 7\\).\n\nFINAL_ANSWER: \\(8x + 7\\)",
+    "generated_answer": "\\(8x + 7\\)"
+  },
+  {
+    "problem_index": 22,
+    "question": "Solve the inequality  2x-7 < 9 ",
+    "actual_answer": "x<8",
+    "level": "Middle ",
+    "generated_solution": "To solve the inequality \\( 2x - 7 < 9 \\), follow these steps:\n\n1. **Add 7 to both sides** to isolate the term with \\( x \\):\n   \\[\n   2x - 7 + 7 < 9 + 7\n   \\]\n   Simplifying:\n   \\[\n   2x < 16\n   \\]\n\n2. **Divide both sides by 2** to solve for \\( x \\):\n   \\[\n   \\frac{2x}{2} < \\frac{16}{2}\n   \\]\n   Simplifying:\n   \\[\n   x < 8\n   \\]\n\nThe solution to the inequality is \\( x < 8 \\).\n\nFINAL_ANSWER: \\( x < 8 \\)",
+    "generated_answer": "\\( x < 8 \\)"
+  },
+  {
+    "problem_index": 23,
+    "question": "A numer is multiplied by 4 and then decreaed by 6. THen result is 10. What is the number",
+    "actual_answer": "x=4",
+    "level": "Middle",
+    "generated_solution": "Let's solve the problem step by step.\n\n1. Let the unknown number be \\( x \\).\n\n2. The problem states that the number is multiplied by 4:\n   \\[\n   4x\n   \\]\n\n3. Then, the result is decreased by 6:\n   \\[\n   4x - 6\n   \\]\n\n4. According to the problem, this result equals 10:\n   \\[\n   4x - 6 = 10\n   \\]\n\n5. Solve for \\( x \\):\n   \\[\n   4x - 6 = 10\n   \\]\n   Add 6 to both sides:\n   \\[\n   4x = 16\n   \\]\n   Divide both sides by 4:\n   \\[\n   x = 4\n   \\]\n\nThe number is \\( 4 \\).\n\nFINAL_ANSWER: 4",
+    "generated_answer": "4"
+  },
+  {
+    "problem_index": 24,
+    "question": "If f(x) = 2x^2 -3x +1, what is f(3)",
+    "actual_answer": "10",
+    "level": "Middle",
+    "generated_solution": "To solve for \\( f(3) \\), we substitute \\( x = 3 \\) into the function \\( f(x) = 2x^2 - 3x + 1 \\).\n\n### Step-by-step solution:\n1. Substitute \\( x = 3 \\) into the function:\n   \\[\n   f(3) = 2(3)^2 - 3(3) + 1\n   \\]\n\n2. Calculate \\( (3)^2 \\):\n   \\[\n   (3)^2 = 9\n   \\]\n\n3. Multiply by 2:\n   \\[\n   2(9) = 18\n   \\]\n\n4. Multiply \\( -3 \\) by \\( 3 \\):\n   \\[\n   -3(3) = -9\n   \\]\n\n5. Add all the terms together:\n   \\[\n   f(3) = 18 - 9 + 1\n   \\]\n\n6. Simplify:\n   \\[\n   f(3) = 10\n   \\]\n\n### Final Answer:\n\\[\nf(3) = 10\n\\]\n\nFINAL_ANSWER: 10",
+    "generated_answer": "10"
+  },
+  {
+    "problem_index": 25,
+    "question": "List all the prime numbers between 1 and 30",
+    "actual_answer": "2,3,5,7,11,13,17,19,23,29",
+    "level": "Middle",
+    "generated_solution": "To solve this problem, we need to list all the prime numbers between 1 and 30. A prime number is a natural number greater than 1 that has no positive divisors other than 1 and itself.\n\n### Step-by-Step Solution:\n1. Start by listing all numbers from 2 to 30 (since 1 is not a prime number).\n2. Check each number to see if it is divisible by any number other than 1 and itself.\n3. If a number is only divisible by 1 and itself, it is a prime number.\n\n### Checking each number:\n- **2**: Divisible only by 1 and 2. **Prime**.\n- **3**: Divisible only by 1 and 3. **Prime**.\n- **4**: Divisible by 1, 2, and 4. **Not prime**.\n- **5**: Divisible only by 1 and 5. **Prime**.\n- **6**: Divisible by 1, 2, 3, and 6. **Not prime**.\n- **7**: Divisible only by 1 and 7. **Prime**.\n- **8**: Divisible by 1, 2, 4, and 8. **Not prime**.\n- **9**: Divisible by 1, 3, and 9. **Not prime**.\n- **10**: Divisible by 1, 2, 5, and 10. **Not prime**.\n- **11**: Divisible only by 1 and 11. **Prime**.\n- **12**: Divisible by 1, 2, 3, 4, 6, and 12. **Not prime**.\n- **13**: Divisible only by 1 and 13. **Prime**.\n- **14**: Divisible by 1, 2, 7, and 14. **Not prime**.\n- **15**: Divisible by 1, 3, 5, and 15. **Not prime**.\n- **16**: Divisible by 1, 2, 4, 8, and 16. **Not prime**.\n- **17**: Divisible only by 1 and 17. **Prime**.\n- **18**: Divisible by 1, 2, 3, 6, 9, and 18. **Not",
+    "generated_answer": "- **18**: Divisible by 1, 2, 3, 6, 9, and 18. **Not"
+  },
+  {
+    "problem_index": 26,
+    "question": "Find GCD of 24 and 36",
+    "actual_answer": "12",
+    "level": "Middle",
+    "generated_solution": "To find the GCD (Greatest Common Divisor) of 24 and 36, we can use the **Euclidean Algorithm**. Here's the step-by-step process:\n\n1. **Divide the larger number by the smaller number and find the remainder:**\n   - 36 \u00f7 24 = 1 with a remainder of 12.\n\n2. **Replace the larger number with the smaller number and the smaller number with the remainder:**\n   - Now, find GCD(24, 12).\n\n3. **Repeat the process:**\n   - 24 \u00f7 12 = 2 with a remainder of 0.\n\n4. **When the remainder is 0, the GCD is the last non-zero remainder:**\n   - The GCD is 12.\n\nFINAL_ANSWER: 12",
+    "generated_answer": "10"
+  },
+  {
+    "problem_index": 27,
+    "question": "What is the LCM of 6 and 8",
+    "actual_answer": "24",
+    "level": "Middle ",
+    "generated_solution": "To find the **Least Common Multiple (LCM)** of 6 and 8, we can use the **prime factorization method**. Here's the step-by-step process:\n\n1. **Find the prime factors of each number:**\n   - 6 = 2 \u00d7 3\n   - 8 = 2 \u00d7 2 \u00d7 2 = 2\u00b3\n\n2. **Identify the highest power of each prime factor:**\n   - The prime factors involved are 2 and 3.\n   - The highest power of 2 is 2\u00b3 (from 8).\n   - The highest power of 3 is 3\u00b9 (from 6).\n\n3. **Multiply the highest powers together to get the LCM:**\n   - LCM = 2\u00b3 \u00d7 3\u00b9 = 8 \u00d7 3 = 24.\n\n**Final Answer:**\nThe LCM of 6 and 8 is **24**.\n\nFINAL_ANSWER: 24",
+    "generated_answer": "24"
+  },
+  {
+    "problem_index": 28,
+    "question": "Is 145 divisible by 5 ? ",
+    "actual_answer": "TRUE",
+    "level": "Middle ",
+    "generated_solution": "To determine if 145 is divisible by 5, we check if the last digit of 145 is either 0 or 5. If it is, then the number is divisible by 5.\n\n1. The last digit of 145 is **5**.\n2. Since the last digit is 5, 145 is divisible by 5.\n\nFINAL_ANSWER: Yes, 145 is divisible by 5.",
+    "generated_answer": "Yes, 145 is divisible by 5."
+  },
+  {
+    "problem_index": 29,
+    "question": "Find all the factors of 42",
+    "actual_answer": "1,2,3,6,7,14,21,42",
+    "level": "Middle",
+    "generated_solution": "To find all the factors of 42, we need to identify all the numbers that divide 42 without leaving a remainder. Here's the step-by-step process:\n\n1. **Start with 1 and 42**:  \n   - 1 \u00d7 42 = 42, so 1 and 42 are factors.\n\n2. **Check 2**:  \n   - 42 \u00f7 2 = 21, so 2 and 21 are factors.\n\n3. **Check 3**:  \n   - 42 \u00f7 3 = 14, so 3 and 14 are factors.\n\n4. **Check 6**:  \n   - 42 \u00f7 6 = 7, so 6 and 7 are factors.\n\n5. **Check 7**:  \n   - 7 is already included in the pair (6, 7), so we stop here.\n\n6. **List all factors**:  \n   The factors of 42 are:  \n   1, 2, 3, 6, 7, 14, 21, 42.\n\nFINAL_ANSWER: The factors of 42 are 1, 2, 3, 6, 7, 14, 21, 42.",
+    "generated_answer": "The factors of 42 are 1, 2, 3, 6, 7, 14, 21, 10."
+  },
+  {
+    "problem_index": 30,
+    "question": "What is the slope of the line passing through the points (2,3) and (5,11)",
+    "actual_answer": "8/3",
+    "level": "Middle",
+    "generated_solution": "To find the slope of the line passing through the points \\((2, 3)\\) and \\((5, 11)\\), we use the slope formula:\n\n\\[\n\\text{Slope} = \\frac{y_2 - y_1}{x_2 - x_1}\n\\]\n\nHere, \\((x_1, y_1) = (2, 3)\\) and \\((x_2, y_2) = (5, 11)\\). Substituting these values into the formula:\n\n\\[\n\\text{Slope} = \\frac{11 - 3}{5 - 2} = \\frac{8}{3}\n\\]\n\nSo, the slope of the line is \\(\\frac{8}{3}\\) or approximately \\(2.6667\\).\n\nFINAL_ANSWER: \\(\\frac{8}{3}\\) or \\(2.6667\\)",
+    "generated_answer": "\\(\\frac{7}{3}\\) or \\(2.6667\\)"
+  },
+  {
+    "problem_index": 31,
+    "question": "Write the equation of the line in slope-intercept form that passes through (1,2) and (0,0)",
+    "actual_answer": "y=2x",
+    "level": "Middle",
+    "generated_solution": "To find the equation of the line in slope-intercept form (\\( y = mx + b \\)) that passes through the points \\((1, 2)\\) and \\((0, 0)\\), follow these steps:\n\n---\n\n### Step 1: Find the slope (\\( m \\))\nThe slope of a line passing through two points \\((x_1, y_1)\\) and \\((x_2, y_2)\\) is given by:\n\\[\nm = \\frac{y_2 - y_1}{x_2 - x_1}\n\\]\n\nSubstitute the given points \\((1, 2)\\) and \\((0, 0)\\):\n\\[\nm = \\frac{0 - 2}{0 - 1} = \\frac{-2}{-1} = 2\n\\]\n\n---\n\n### Step 2: Find the y-intercept (\\( b \\))\nThe y-intercept is the value of \\( y \\) when \\( x = 0 \\). From the point \\((0, 0)\\), we see that \\( b = 0 \\).\n\n---\n\n### Step 3: Write the equation in slope-intercept form\nSubstitute \\( m = 2 \\) and \\( b = 0 \\) into the slope-intercept form:\n\\[\ny = 2x + 0\n\\]\n\nSimplify:\n\\[\ny = 2x\n\\]\n\n---\n\nFINAL_ANSWER: \\( y = 2x \\)",
+    "generated_answer": "\\( y = 2x \\)"
+  },
+  {
+    "problem_index": 32,
+    "question": "Given the quadratic equation x^2 -5x +6 = 0, find the roots",
+    "actual_answer": "3,2",
+    "level": "Middle",
+    "generated_solution": "To solve the quadratic equation \\( x^2 - 5x + 6 = 0 \\), we can use the factoring method. Here's the step-by-step process:\n\n1. **Write the equation**:\n   \\[\n   x^2 - 5x + 6 = 0\n   \\]\n\n2. **Factor the quadratic equation**:\n   We need to find two numbers that multiply to \\( 6 \\) (the constant term) and add up to \\( -5 \\) (the coefficient of \\( x \\)). The numbers \\( -2 \\) and \\( -3 \\) satisfy these conditions because:\n   \\[\n   (-2) \\cdot (-3) = 6 \\quad \\text{and} \\quad (-2) + (-3) = -5\n   \\]\n\n3. **Rewrite the equation using the factors**:\n   \\[\n   (x - 2)(x - 3) = 0\n   \\]\n\n4. **Set each factor equal to zero and solve for \\( x \\)**:\n   \\[\n   x - 2 = 0 \\quad \\Rightarrow \\quad x = 2\n   \\]\n   \\[\n   x - 3 = 0 \\quad \\Rightarrow \\quad x = 3\n   \\]\n\n5. **Final Answer**:\n   The roots of the equation \\( x^2 - 5x + 6 = 0 \\) are \\( x = 2 \\) and \\( x = 3 \\).\n\nFINAL_ANSWER: \\( x = 2 \\) and \\( x = 3 \\)",
+    "generated_answer": "\\( x = 2 \\) and \\( x = 3 \\)"
+  },
+  {
+    "problem_index": 33,
+    "question": "Simplify (2^3 . 2^2)/(2^4)",
+    "actual_answer": "2",
+    "level": "Middle ",
+    "generated_solution": "To simplify the expression \\(\\frac{2^3 \\cdot 2^2}{2^4}\\), follow these steps:\n\n1. **Simplify the numerator**:\n   - Use the property of exponents \\(a^m \\cdot a^n = a^{m+n}\\).\n   - \\(2^3 \\cdot 2^2 = 2^{3+2} = 2^5\\).\n\n2. **Rewrite the expression**:\n   - The expression becomes \\(\\frac{2^5}{2^4}\\).\n\n3. **Simplify the fraction**:\n   - Use the property of exponents \\(\\frac{a^m}{a^n} = a^{m-n}\\).\n   - \\(\\frac{2^5}{2^4} = 2^{5-4} = 2^1\\).\n\n4. **Final simplification**:\n   - \\(2^1 = 2\\).\n\nFINAL_ANSWER: 2",
+    "generated_answer": "2"
+  },
+  {
+    "problem_index": 34,
+    "question": "What is the 10th term in the arithemtic sequence 3 , 7 , 11 ... ",
+    "actual_answer": "39",
+    "level": "Middle ",
+    "generated_solution": "To find the 10th term in the arithmetic sequence \\( 3, 7, 11, \\dots \\), follow these steps:\n\n1. **Identify the first term (\\( a_1 \\)) and the common difference (\\( d \\)):**\n   - The first term \\( a_1 = 3 \\).\n   - The common difference \\( d = 7 - 3 = 4 \\).\n\n2. **Use the formula for the \\( n \\)-th term of an arithmetic sequence:**\n   \\[\n   a_n = a_1 + (n - 1) \\cdot d\n   \\]\n   where \\( a_n \\) is the \\( n \\)-th term.\n\n3. **Substitute \\( n = 10 \\), \\( a_1 = 3 \\), and \\( d = 4 \\) into the formula:**\n   \\[\n   a_{10} = 3 + (10 - 1) \\cdot 4\n   \\]\n   \\[\n   a_{10} = 3 + 9 \\cdot 4\n   \\]\n   \\[\n   a_{10} = 3 + 36\n   \\]\n   \\[\n   a_{10} = 39\n   \\]\n\n4. **Final Answer:**\n   The 10th term in the sequence is \\( 39 \\).\n\nFINAL_ANSWER: 39",
+    "generated_answer": "39"
+  },
+  {
+    "problem_index": 35,
+    "question": "If the ratio of cats to dogs in a pet store is 3:5 and there are 15 cats, how many dogs are there ?",
+    "actual_answer": "25",
+    "level": "Middle",
+    "generated_solution": "To solve this problem, we can use the concept of ratios. Here's the step-by-step solution:\n\n1. The ratio of cats to dogs is given as 3:5. This means for every 3 cats, there are 5 dogs.\n\n2. We are told that there are 15 cats. To find out how many dogs there are, we need to determine the scaling factor that relates the number of cats in the ratio to the actual number of cats.\n\n3. The ratio tells us that 3 cats correspond to 5 dogs. Since there are 15 cats, we can find the scaling factor by dividing the actual number of cats by the number of cats in the ratio:\n   \\[\n   \\text{Scaling factor} = \\frac{15 \\text{ cats}}{3 \\text{ cats}} = 5\n   \\]\n\n4. Now, we apply this scaling factor to the number of dogs in the ratio to find the actual number of dogs:\n   \\[\n   \\text{Number of dogs} = 5 \\text{ dogs} \\times 5 = 25 \\text{ dogs}\n   \\]\n\nSo, there are 25 dogs in the pet store.\n\nFINAL_ANSWER: 25",
+    "generated_answer": "25"
+  },
+  {
+    "problem_index": 36,
+    "question": "What is 25% of 160 ? ",
+    "actual_answer": "40",
+    "level": "Middle",
+    "generated_solution": "To find 25% of 160, follow these steps:\n\n1. **Understand what 25% means**:  \n   25% is equivalent to the fraction \\( \\frac{25}{100} \\) or the decimal \\( 0.25 \\).\n\n2. **Multiply 160 by 0.25**:  \n   \\( 160 \\times 0.25 = 40 \\).\n\n3. **Final Answer**:  \n   \\( 25\\% \\) of 160 is **40**.\n\nFINAL_ANSWER: 40",
+    "generated_answer": "40"
+  },
+  {
+    "problem_index": 37,
+    "question": "If you roll a fair dice twice what is the probability that both are 6 given the first one is 6. ",
+    "actual_answer": "1/6",
+    "level": "Middle",
+    "generated_solution": "To solve this problem, we need to find the probability that both dice rolls are 6, given that the first roll is already 6.\n\n### Step-by-step solution:\n1. The first roll is already given as 6. Since the dice is fair, the probability of the first roll being 6 is 1 (or 100%), because it is already known to be 6.\n\n2. The second roll is independent of the first roll. The probability of rolling a 6 on a fair dice is \\( \\frac{1}{6} \\).\n\n3. Since the two events are independent, the probability of both events happening (both rolls being 6) is the product of their individual probabilities:\n   \\[\n   P(\\text{both are 6} \\mid \\text{first is 6}) = P(\\text{first is 6}) \\times P(\\text{second is 6})\n   \\]\n   Substituting the known values:\n   \\[\n   P(\\text{both are 6} \\mid \\text{first is 6}) = 1 \\times \\frac{1}{6} = \\frac{1}{6}\n   \\]\n\n### Final Answer:\nThe probability that both rolls are 6, given that the first roll is 6, is \\( \\frac{1}{6} \\) (or approximately 0.1667 in decimal form).\n\nFINAL_ANSWER: \\( \\frac{1}{6} \\) or 0.1667",
+    "generated_answer": "\\( \\frac{1}{6} \\) or 0.1667"
+  },
+  {
+    "problem_index": 38,
+    "question": "In a right triangle, if one angle is 30 degrees and the hypotenuse is 10, what is the length of the side opposite the 30-degree angle?",
+    "actual_answer": "5",
+    "level": "Middle",
+    "generated_solution": "To solve this problem, we can use the properties of a 30-60-90 right triangle. In a 30-60-90 triangle:\n\n1. The side opposite the 30-degree angle is half the length of the hypotenuse.\n2. The side opposite the 60-degree angle is \\(\\frac{\\sqrt{3}}{2}\\) times the length of the hypotenuse.\n\nGiven:\n- Hypotenuse = 10\n- Angle = 30 degrees\n\nStep 1: Identify the side opposite the 30-degree angle.\nThe side opposite the 30-degree angle is half the hypotenuse.\n\nStep 2: Calculate the length of the side opposite the 30-degree angle.\n\\[\n\\text{Opposite side} = \\frac{1}{2} \\times \\text{Hypotenuse} = \\frac{1}{2} \\times 10 = 5\n\\]\n\nFinal Answer: The length of the side opposite the 30-degree angle is 5.\n\nFINAL_ANSWER: 5",
+    "generated_answer": "5"
+  },
+  {
+    "problem_index": 39,
+    "question": "Find all the factors of 175",
+    "actual_answer": "1, 5, 7, 25, 35, 175",
+    "level": "Middle ",
+    "generated_solution": "To find all the factors of 175, we follow these steps:\n\n1. **Factorize 175 into its prime factors**:\n   - 175 is divisible by 5: \\( 175 \\div 5 = 35 \\).\n   - 35 is also divisible by 5: \\( 35 \\div 5 = 7 \\).\n   - 7 is a prime number.\n   - So, the prime factorization of 175 is \\( 5 \\times 5 \\times 7 \\), or \\( 5^2 \\times 7 \\).\n\n2. **List all the factors**:\n   - The factors are all the combinations of the prime factors:\n     - \\( 5^0 \\times 7^0 = 1 \\)\n     - \\( 5^1 \\times 7^0 = 5 \\)\n     - \\( 5^2 \\times 7^0 = 25 \\)\n     - \\( 5^0 \\times 7^1 = 7 \\)\n     - \\( 5^1 \\times 7^1 = 35 \\)\n     - \\( 5^2 \\times 7^1 = 175 \\)\n\n3. **Final list of factors**:\n   - The factors of 175 are: 1, 5, 7, 25, 35, 175.\n\nFINAL_ANSWER: The factors of 175 are 1, 5, 7, 25, 35, and 175.",
+    "generated_answer": "The factors of 175 are 1, 5, 7, 25, 35, and 175."
+  },
+  {
+    "problem_index": 40,
+    "question": "List first 3 triangular square number",
+    "actual_answer": "1, 36, 1225",
+    "level": "Middle ",
+    "generated_solution": "To solve the problem of listing the first 3 triangular square numbers, let's break it down step by step.\n\n---\n\n### Step 1: Understand triangular and square numbers\n- A **triangular number** is a number that can form an equilateral triangle. The \\( n \\)-th triangular number is given by:\n  \\[\n  T_n = \\frac{n(n+1)}{2}\n  \\]\n- A **square number** is a number that can form a square. The \\( m \\)-th square number is given by:\n  \\[\n  S_m = m^2\n  \\]\n\nA **triangular square number** is a number that is both triangular and square. We need to find numbers that satisfy:\n\\[\n\\frac{n(n+1)}{2} = m^2\n\\]\n\n---\n\n### Step 2: Find the first 3 triangular square numbers\nThe first 3 triangular square numbers are:\n1. \\( 1 \\): This is both the 1st triangular number (\\( T_1 = 1 \\)) and the 1st square number (\\( S_1 = 1 \\)).\n2. \\( 36 \\): This is the 8th triangular number (\\( T_8 = 36 \\)) and the 6th square number (\\( S_6 = 36 \\)).\n3. \\( 1225 \\): This is the 49th triangular number (\\( T_{49} = 1225 \\)) and the 35th square number (\\( S_{35} = 1225 \\)).\n\n---\n\n### Final Answer:\nThe first 3 triangular square numbers are:\n1. \\( 1 \\)\n2. \\( 36 \\)\n3. \\( 1225 \\)\n\nFINAL_ANSWER: 1, 36, 1225",
+    "generated_answer": "1, 36, 1225"
+  },
+  {
+    "problem_index": 41,
+    "question": "Calculate the volume of a cylinder with a radius of 3 cm and a height of 10 cm.",
+    "actual_answer": "90 pi",
+    "level": "High",
+    "generated_solution": "To calculate the volume of a cylinder, we use the formula:\n\n\\[\nV = \\pi r^2 h\n\\]\n\nWhere:\n- \\( V \\) is the volume,\n- \\( r \\) is the radius of the cylinder,\n- \\( h \\) is the height of the cylinder.\n\nGiven:\n- Radius \\( r = 3 \\, \\text{cm} \\),\n- Height \\( h = 10 \\, \\text{cm} \\).\n\nStep-by-step solution:\n1. Square the radius:\n   \\[\n   r^2 = 3^2 = 9 \\, \\text{cm}^2\n   \\]\n\n2. Multiply the squared radius by the height:\n   \\[\n   9 \\, \\text{cm}^2 \\times 10 \\, \\text{cm} = 90 \\, \\text{cm}^3\n   \\]\n\n3. Multiply by \\( \\pi \\):\n   \\[\n   V = \\pi \\times 90 \\, \\text{cm}^3 = 90\\pi \\, \\text{cm}^3\n   \\]\n\nFinal answer:\n\\[\nV = 90\\pi \\, \\text{cm}^3 \\quad \\text{or} \\quad V \\approx 282.74 \\, \\text{cm}^3\n\\]\n\nFINAL_ANSWER: \\( 90\\pi \\, \\text{cm}^3 \\) or approximately \\( 282.74 \\, \\text{cm}^3 \\).",
+    "generated_answer": "\\( 90\\pi \\, \\text{cm}^3 \\) or approximately \\( 282.74 \\, \\text{cm}^3 \\)."
+  },
+  {
+    "problem_index": 42,
+    "question": "What is the surface area of a sphere with a radius of 5 meters?",
+    "actual_answer": "100 pi",
+    "level": "High",
+    "generated_solution": "To find the surface area of a sphere, we use the formula:\n\n\\[\n\\text{Surface Area} = 4\\pi r^2\n\\]\n\nwhere \\( r \\) is the radius of the sphere.\n\nGiven the radius \\( r = 5 \\) meters, we substitute this value into the formula:\n\n\\[\n\\text{Surface Area} = 4\\pi (5)^2\n\\]\n\nFirst, calculate \\( 5^2 \\):\n\n\\[\n5^2 = 25\n\\]\n\nNow, multiply by 4:\n\n\\[\n4 \\times 25 = 100\n\\]\n\nSo, the surface area is:\n\n\\[\n\\text{Surface Area} = 100\\pi \\text{ square meters}\n\\]\n\nIf you want a numerical approximation, using \\( \\pi \\approx 3.1416 \\):\n\n\\[\n100\\pi \\approx 100 \\times 3.1416 = 314.16 \\text{ square meters}\n\\]\n\nFINAL_ANSWER: The surface area of the sphere is \\( 100\\pi \\) square meters (approximately 314.16 square meters).",
+    "generated_answer": "The surface area of the sphere is \\( 100\\pi \\) square meters (approximately 314.16 square meters)."
+  },
+  {
+    "problem_index": 43,
+    "question": "Find the distance between the points A(1,2,3) and B(4,6,8).",
+    "actual_answer": "sqrt 50",
+    "level": "High",
+    "generated_solution": "To find the distance between two points in 3D space, we use the distance formula:\n\n\\[\nd = \\sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2 + (z_2 - z_1)^2}\n\\]\n\nHere, the coordinates of point A are \\( (1, 2, 3) \\), and the coordinates of point B are \\( (4, 6, 8) \\).\n\n### Step-by-step solution:\n1. Subtract the corresponding coordinates:\n   \\[\n   x_2 - x_1 = 4 - 1 = 3\n   \\]\n   \\[\n   y_2 - y_1 = 6 - 2 = 4\n   \\]\n   \\[\n   z_2 - z_1 = 8 - 3 = 5\n   \\]\n\n2. Square each of these differences:\n   \\[\n   (x_2 - x_1)^2 = 3^2 = 9\n   \\]\n   \\[\n   (y_2 - y_1)^2 = 4^2 = 16\n   \\]\n   \\[\n   (z_2 - z_1)^2 = 5^2 = 25\n   \\]\n\n3. Add the squared differences:\n   \\[\n   9 + 16 + 25 = 50\n   \\]\n\n4. Take the square root of the sum:\n   \\[\n   d = \\sqrt{50} = \\sqrt{25 \\cdot 2} = 5\\sqrt{2}\n   \\]\n\n### Final Answer:\nThe distance between points A and B is \\( 5\\sqrt{2} \\) or approximately \\( 7.071 \\).\n\nFINAL_ANSWER: \\( 5\\sqrt{2} \\) or \\( 7.071 \\)",
+    "generated_answer": "\\( 5\\sqrt{2} \\) or \\( 7.071 \\)"
+  },
+  {
+    "problem_index": 44,
+    "question": "A cone has a base radius of 4 cm and a height of 9 cm. What is its volume?",
+    "actual_answer": "48 pi",
+    "level": "High",
+    "generated_solution": "To find the volume of a cone, we use the formula:\n\n\\[\nV = \\frac{1}{3} \\pi r^2 h\n\\]\n\nWhere:\n- \\( V \\) is the volume,\n- \\( r \\) is the radius of the base,\n- \\( h \\) is the height of the cone.\n\nGiven:\n- Radius \\( r = 4 \\, \\text{cm} \\),\n- Height \\( h = 9 \\, \\text{cm} \\).\n\nStep 1: Substitute the given values into the formula.\n\n\\[\nV = \\frac{1}{3} \\pi (4)^2 (9)\n\\]\n\nStep 2: Calculate \\( (4)^2 \\).\n\n\\[\n(4)^2 = 16\n\\]\n\nStep 3: Multiply \\( 16 \\) by \\( 9 \\).\n\n\\[\n16 \\times 9 = 144\n\\]\n\nStep 4: Multiply \\( 144 \\) by \\( \\frac{1}{3} \\).\n\n\\[\n\\frac{1}{3} \\times 144 = 48\n\\]\n\nStep 5: Multiply \\( 48 \\) by \\( \\pi \\).\n\n\\[\nV = 48 \\pi\n\\]\n\nSo, the volume of the cone is \\( 48 \\pi \\, \\text{cm}^3 \\).\n\nFINAL_ANSWER: \\( 48 \\pi \\, \\text{cm}^3 \\)",
+    "generated_answer": "\\( 10 \\pi \\, \\text{cm}^3 \\)"
+  },
+  {
+    "problem_index": 45,
+    "question": "Determine the line of intersection of the planes x+y+z=1 and x\u2212y+z=3.",
+    "actual_answer": "2-t,-1,t",
+    "level": "High",
+    "generated_solution": "To determine the line of intersection of the two planes \\( x + y + z = 1 \\) and \\( x - y + z = 3 \\), we can solve the system of equations step by step.\n\n---\n\n### Step 1: Subtract the two equations\nSubtract the second equation from the first to eliminate \\( x \\) and \\( z \\):\n\\[\n(x + y + z) - (x - y + z) = 1 - 3\n\\]\nSimplify:\n\\[\nx + y + z - x + y - z = -2\n\\]\n\\[\n2y = -2\n\\]\n\\[\ny = -1\n\\]\n\n---\n\n### Step 2: Substitute \\( y = -1 \\) into one of the equations\nSubstitute \\( y = -1 \\) into the first equation \\( x + y + z = 1 \\):\n\\[\nx + (-1) + z = 1\n\\]\n\\[\nx + z = 2\n\\]\nThis gives \\( x = 2 - z \\).\n\n---\n\n### Step 3: Express the solution parametrically\nLet \\( z = t \\), where \\( t \\) is a parameter. Then:\n\\[\nx = 2 - t\n\\]\n\\[\ny = -1\n\\]\n\\[\nz = t\n\\]\n\n---\n\n### Step 4: Write the parametric equations of the line\nThe parametric equations of the line of intersection are:\n\\[\nx = 2 - t, \\quad y = -1, \\quad z = t\n\\]\n\n---\n\n### Final Answer:\nThe line of intersection is given by the parametric equations:\n\\[\nx = 2 - t, \\quad y = -1, \\quad z = t\n\\]\nFINAL_ANSWER: \\( x = 2 - t, \\, y = -1, \\, z = t \\)",
+    "generated_answer": "\\( x = 1 - t, \\, y = -1, \\, z = t \\)"
+  },
+  {
+    "problem_index": 46,
+    "question": "Solve for x: log2\u200b(x)+log2\u200b(4)=5.",
+    "actual_answer": "8",
+    "level": "High",
+    "generated_solution": "To solve the equation \\(\\log_2(x) + \\log_2(4) = 5\\), follow these steps:\n\n1. **Combine the logarithms**:\n   The sum of logarithms with the same base can be combined into the logarithm of the product:\n   \\[\n   \\log_2(x) + \\log_2(4) = \\log_2(x \\cdot 4).\n   \\]\n   So, the equation becomes:\n   \\[\n   \\log_2(4x) = 5.\n   \\]\n\n2. **Convert the logarithmic equation to its exponential form**:\n   The equation \\(\\log_2(4x) = 5\\) is equivalent to:\n   \\[\n   4x = 2^5.\n   \\]\n\n3. **Calculate \\(2^5\\)**:\n   \\[\n   2^5 = 32.\n   \\]\n   So, the equation becomes:\n   \\[\n   4x = 32.\n   \\]\n\n4. **Solve for \\(x\\)**:\n   Divide both sides by 4:\n   \\[\n   x = \\frac{32}{4} = 8.\n   \\]\n\nThus, the solution is:\n\\[\nx = 8.\n\\]\n\nFINAL_ANSWER: 8",
+    "generated_answer": "8"
+  },
+  {
+    "problem_index": 47,
+    "question": "If a population of bacteria doubles every 3 hours, how many will there be after 12 hours if the initial population is 100?",
+    "actual_answer": "1600",
+    "level": "High",
+    "generated_solution": "To solve this problem, we need to determine how many times the population doubles in 12 hours and then calculate the final population.\n\n### Step-by-step solution:\n1. **Determine the number of doubling periods:**\n   - The population doubles every 3 hours.\n   - Total time = 12 hours.\n   - Number of doubling periods = Total time / Doubling time = 12 / 3 = 4.\n\n2. **Calculate the final population:**\n   - Initial population = 100.\n   - Each doubling multiplies the population by 2.\n   - Final population = Initial population \u00d7 (2)^(Number of doubling periods).\n   - Final population = 100 \u00d7 (2)^4 = 100 \u00d7 16 = 1600.\n\n### Final Answer:\nFINAL_ANSWER: 1600",
+    "generated_answer": "1600"
+  },
+  {
+    "problem_index": 48,
+    "question": "Use the change of base formula to compute log_3\u200b(81).",
+    "actual_answer": "4",
+    "level": "High",
+    "generated_solution": "To solve \\( \\log_3(81) \\) using the change of base formula, follow these steps:\n\n1. **Understand the change of base formula**:\n   The change of base formula states that:\n   \\[\n   \\log_b(a) = \\frac{\\log_k(a)}{\\log_k(b)}\n   \\]\n   where \\( k \\) is any positive number (commonly 10 or \\( e \\)).\n\n2. **Apply the change of base formula**:\n   Using base 10 for simplicity:\n   \\[\n   \\log_3(81) = \\frac{\\log_{10}(81)}{\\log_{10}(3)}\n   \\]\n\n3. **Calculate \\( \\log_{10}(81) \\) and \\( \\log_{10}(3) \\)**:\n   - \\( \\log_{10}(81) \\approx 1.9085 \\)\n   - \\( \\log_{10}(3) \\approx 0.4771 \\)\n\n4. **Divide the two logarithms**:\n   \\[\n   \\log_3(81) = \\frac{1.9085}{0.4771} \\approx 4\n   \\]\n\n5. **Verify the result**:\n   Since \\( 3^4 = 81 \\), the calculation is correct.\n\nFINAL_ANSWER: 4",
+    "generated_answer": "4"
+  },
+  {
+    "problem_index": 49,
+    "question": "Simplify log(100)\u2212log(10).",
+    "actual_answer": "1",
+    "level": "High",
+    "generated_solution": "To simplify the expression \\(\\log(100) - \\log(10)\\), we can use the properties of logarithms.\n\n### Step-by-step solution:\n1. Recall that \\(\\log(100)\\) is the logarithm of 100 with base 10. Since \\(100 = 10^2\\), we can write:\n   \\[\n   \\log(100) = \\log(10^2) = 2 \\cdot \\log(10).\n   \\]\n\n2. Similarly, \\(\\log(10)\\) is the logarithm of 10 with base 10. Since \\(10 = 10^1\\), we can write:\n   \\[\n   \\log(10) = 1.\n   \\]\n\n3. Substitute these values back into the original expression:\n   \\[\n   \\log(100) - \\log(10) = 2 \\cdot \\log(10) - \\log(10).\n   \\]\n\n4. Simplify the expression by factoring out \\(\\log(10)\\):\n   \\[\n   2 \\cdot \\log(10) - \\log(10) = (2 - 1) \\cdot \\log(10) = 1 \\cdot \\log(10).\n   \\]\n\n5. Since \\(\\log(10) = 1\\), the expression simplifies to:\n   \\[\n   1 \\cdot \\log(10) = 1 \\cdot 1 = 1.\n   \\]\n\n### Final Answer:\nThe simplified value of \\(\\log(100) - \\log(10)\\) is \\(1\\).\n\nFINAL_ANSWER: 1",
+    "generated_answer": "1"
+  },
+  {
+    "problem_index": 50,
+    "question": "A radioactive substance has a half-life of 5 years. If you start with 80 grams, how much will remain after 15 years?",
+    "actual_answer": "10",
+    "level": "High",
+    "generated_solution": "To solve this problem, we will use the concept of half-life, which is the time it takes for half of the radioactive substance to decay. Here's the step-by-step solution:\n\n---\n\n### Step 1: Understand the half-life formula\nThe amount of substance remaining after a certain time can be calculated using the formula:\n\n\\[\nN = N_0 \\times \\left(\\frac{1}{2}\\right)^{\\frac{t}{T}}\n\\]\n\nWhere:\n- \\(N\\) = remaining amount of the substance,\n- \\(N_0\\) = initial amount of the substance,\n- \\(t\\) = elapsed time,\n- \\(T\\) = half-life of the substance.\n\n---\n\n### Step 2: Identify the given values\n- Initial amount (\\(N_0\\)) = 80 grams,\n- Half-life (\\(T\\)) = 5 years,\n- Elapsed time (\\(t\\)) = 15 years.\n\n---\n\n### Step 3: Plug the values into the formula\n\\[\nN = 80 \\times \\left(\\frac{1}{2}\\right)^{\\frac{15}{5}}\n\\]\n\nSimplify the exponent:\n\\[\nN = 80 \\times \\left(\\frac{1}{2}\\right)^3\n\\]\n\n---\n\n### Step 4: Calculate the exponent\n\\[\n\\left(\\frac{1}{2}\\right)^3 = \\frac{1}{8}\n\\]\n\n---\n\n### Step 5: Multiply to find the remaining amount\n\\[\nN = 80 \\times \\frac{1}{8} = 10\n\\]\n\n---\n\n### Final Answer:\nAfter 15 years, **10 grams** of the radioactive substance will remain.\n\nFINAL_ANSWER: 10 grams",
+    "generated_answer": "10 grams"
+  },
+  {
+    "problem_index": 51,
+    "question": "Find the derivative of f(x) = 3x^3 - 5x^2 + 2x - 7",
+    "actual_answer": "9x^2-10x+2",
+    "level": "High",
+    "generated_solution": "To find the derivative of the function \\( f(x) = 3x^3 - 5x^2 + 2x - 7 \\), we will use the power rule for differentiation. The power rule states that if \\( f(x) = ax^n \\), then \\( f'(x) = a \\cdot n \\cdot x^{n-1} \\).\n\nLet's apply the power rule to each term in the function:\n\n1. **First term: \\( 3x^3 \\)**\n   - Derivative: \\( 3 \\cdot 3 \\cdot x^{3-1} = 9x^2 \\)\n\n2. **Second term: \\( -5x^2 \\)**\n   - Derivative: \\( -5 \\cdot 2 \\cdot x^{2-1} = -10x \\)\n\n3. **Third term: \\( 2x \\)**\n   - Derivative: \\( 2 \\cdot 1 \\cdot x^{1-1} = 2 \\)\n\n4. **Fourth term: \\( -7 \\)**\n   - Derivative: \\( 0 \\) (since the derivative of a constant is zero)\n\nNow, combine all the derivatives of the individual terms:\n\n\\[\nf'(x) = 9x^2 - 10x + 2\n\\]\n\nFINAL_ANSWER: \\( f'(x) = 9x^2 - 10x + 2 \\)",
+    "generated_answer": "\\( f'(x) = 9x^2 - 10x + 2 \\)"
+  },
+  {
+    "problem_index": 52,
+    "question": "\"Calculate the limit: lim(x -> 2) (x^2 - 4)/(x - 2).\"",
+    "actual_answer": "4",
+    "level": "High",
+    "generated_solution": "To solve the limit \\(\\lim_{x \\to 2} \\frac{x^2 - 4}{x - 2}\\), let's follow these steps:\n\n1. **Direct substitution**: First, substitute \\(x = 2\\) into the expression:\n   \\[\n   \\frac{2^2 - 4}{2 - 2} = \\frac{4 - 4}{0} = \\frac{0}{0}.\n   \\]\n   This is an indeterminate form, so we need to simplify the expression further.\n\n2. **Factor the numerator**: The numerator \\(x^2 - 4\\) is a difference of squares, so it can be factored:\n   \\[\n   x^2 - 4 = (x - 2)(x + 2).\n   \\]\n\n3. **Simplify the expression**: Substitute the factored form into the original limit:\n   \\[\n   \\lim_{x \\to 2} \\frac{(x - 2)(x + 2)}{x - 2}.\n   \\]\n   The \\((x - 2)\\) terms cancel out (since \\(x \\neq 2\\) in the limit):\n   \\[\n   \\lim_{x \\to 2} (x + 2).\n   \\]\n\n4. **Evaluate the simplified limit**: Now, substitute \\(x = 2\\) into the simplified expression:\n   \\[\n   2 + 2 = 4.\n   \\]\n\nThus, the limit is:\n\nFINAL_ANSWER: 4",
+    "generated_answer": "4"
+  },
+  {
+    "problem_index": 53,
+    "question": "\"Evaluate the integral: \u222b_0^3 (2x + 1) dx.\"",
+    "actual_answer": "12",
+    "level": "High",
+    "generated_solution": "To evaluate the integral \\(\\int_0^3 (2x + 1) \\, dx\\), we will follow these steps:\n\n1. **Find the antiderivative of the integrand \\(2x + 1\\):**\n   The antiderivative of \\(2x\\) is \\(x^2\\), and the antiderivative of \\(1\\) is \\(x\\). Therefore, the antiderivative of \\(2x + 1\\) is:\n   \\[\n   \\int (2x + 1) \\, dx = x^2 + x + C,\n   \\]\n   where \\(C\\) is the constant of integration.\n\n2. **Evaluate the antiderivative at the upper and lower limits:**\n   We substitute the upper limit \\(x = 3\\) and the lower limit \\(x = 0\\) into the antiderivative:\n   \\[\n   \\left[ x^2 + x \\right]_0^3 = (3^2 + 3) - (0^2 + 0).\n   \\]\n\n3. **Calculate the values:**\n   \\[\n   (3^2 + 3) = 9 + 3 = 12,\n   \\]\n   and\n   \\[\n   (0^2 + 0) = 0 + 0 = 0.\n   \\]\n\n4. **Subtract the lower limit value from the upper limit value:**\n   \\[\n   12 - 0 = 12.\n   \\]\n\nTherefore, the value of the integral is:\n\\[\n\\boxed{12}.\n\\]\n\nFINAL_ANSWER: 12",
+    "generated_answer": "12"
+  },
+  {
+    "problem_index": 54,
+    "question": "\"Find the critical points of the function f(x) = x^2 - 4x + 3.\"",
+    "actual_answer": "x=2",
+    "level": "High",
+    "generated_solution": "To find the critical points of the function \\( f(x) = x^2 - 4x + 3 \\), we follow these steps:\n\n1. **Find the first derivative of the function**:\n   The first derivative \\( f'(x) \\) gives the slope of the tangent line to the function at any point \\( x \\). For critical points, we set \\( f'(x) = 0 \\).\n\n   \\[\n   f(x) = x^2 - 4x + 3\n   \\]\n   \\[\n   f'(x) = \\frac{d}{dx}(x^2) - \\frac{d}{dx}(4x) + \\frac{d}{dx}(3)\n   \\]\n   \\[\n   f'(x) = 2x - 4 + 0\n   \\]\n   \\[\n   f'(x) = 2x - 4\n   \\]\n\n2. **Set the first derivative equal to zero and solve for \\( x \\)**:\n   \\[\n   2x - 4 = 0\n   \\]\n   \\[\n   2x = 4\n   \\]\n   \\[\n   x = 2\n   \\]\n\n3. **Conclusion**:\n   The critical point of the function \\( f(x) = x^2 - 4x + 3 \\) is at \\( x = 2 \\).\n\nFINAL_ANSWER: \\( x = 2 \\)",
+    "generated_answer": "\\( x = 2 \\)"
+  },
+  {
+    "problem_index": 55,
+    "question": "\"What is the area under the curve y = x^2 from x = 1 to x = 3?\"",
+    "actual_answer": "26/3",
+    "level": "High",
+    "generated_solution": "To find the area under the curve \\( y = x^2 \\) from \\( x = 1 \\) to \\( x = 3 \\), we need to compute the definite integral of \\( y = x^2 \\) over the interval \\([1, 3]\\).\n\n### Step-by-step solution:\n1. The integral of \\( y = x^2 \\) is:\n   \\[\n   \\int x^2 \\, dx = \\frac{x^3}{3} + C\n   \\]\n   where \\( C \\) is the constant of integration.\n\n2. Evaluate the definite integral from \\( x = 1 \\) to \\( x = 3 \\):\n   \\[\n   \\int_{1}^{3} x^2 \\, dx = \\left[ \\frac{x^3}{3} \\right]_{1}^{3}\n   \\]\n\n3. Substitute the upper limit \\( x = 3 \\):\n   \\[\n   \\frac{3^3}{3} = \\frac{27}{3} = 9\n   \\]\n\n4. Substitute the lower limit \\( x = 1 \\):\n   \\[\n   \\frac{1^3}{3} = \\frac{1}{3}\n   \\]\n\n5. Subtract the lower limit result from the upper limit result:\n   \\[\n   9 - \\frac{1}{3} = \\frac{27}{3} - \\frac{1}{3} = \\frac{26}{3}\n   \\]\n\n6. The area under the curve is:\n   \\[\n   \\frac{26}{3} \\quad \\text{or} \\quad 8.\\overline{6}\n   \\]\n\n### Final Answer:\nThe area under the curve \\( y = x^2 \\) from \\( x = 1 \\) to \\( x = 3 \\) is:\n\\[\n\\boxed{\\frac{26}{3}}\n\\]\nor approximately \\( 8.\\overline{6} \\).\n\nFINAL_ANSWER: \\(\\frac{26}{3}\\) or 8.666...",
+    "generated_answer": "\\(\\frac{26}{3}\\) or 8.666..."
+  },
+  {
+    "problem_index": 56,
+    "question": "\"Divide 2x^3 + 6x^2 - 4x + 1 by x + 2.\"",
+    "actual_answer": "2x^2+2x-8 ... 17",
+    "level": "High",
+    "generated_solution": "To divide the polynomial \\( 2x^3 + 6x^2 - 4x + 1 \\) by \\( x + 2 \\), we will use **polynomial long division**. Here is the step-by-step process:\n\n---\n\n### Step 1: Set up the division\nWe write the dividend \\( 2x^3 + 6x^2 - 4x + 1 \\) and the divisor \\( x + 2 \\).\n\n---\n\n### Step 2: Divide the leading terms\nDivide the leading term of the dividend \\( 2x^3 \\) by the leading term of the divisor \\( x \\):\n\\[\n\\frac{2x^3}{x} = 2x^2.\n\\]\nThis is the first term of the quotient.\n\n---\n\n### Step 3: Multiply and subtract\nMultiply the divisor \\( x + 2 \\) by \\( 2x^2 \\):\n\\[\n(x + 2)(2x^2) = 2x^3 + 4x^2.\n\\]\nSubtract this from the dividend:\n\\[\n(2x^3 + 6x^2 - 4x + 1) - (2x^3 + 4x^2) = 2x^2 - 4x + 1.\n\\]\n\n---\n\n### Step 4: Repeat the process\nNow divide the leading term of the new dividend \\( 2x^2 \\) by the leading term of the divisor \\( x \\):\n\\[\n\\frac{2x^2}{x} = 2x.\n\\]\nThis is the next term of the quotient.\n\nMultiply the divisor \\( x + 2 \\) by \\( 2x \\):\n\\[\n(x + 2)(2x) = 2x^2 + 4x.\n\\]\nSubtract this from the current dividend:\n\\[\n(2x^2 - 4x + 1) - (2x^2 + 4x) = -8x + 1.\n\\]\n\n---\n\n### Step 5: Repeat again\nDivide the leading term of the new dividend \\( -8x \\) by the leading term of the divisor \\( x \\):\n\\[\n\\frac{-8x}{x} = -8.\n\\]\nThis is the next term of the quotient.\n\nMultiply the divisor \\( x + 2 \\) by \\( -8 \\):\n\\[\n(x + 2)(-8) = -",
+    "generated_answer": "(x + 2)(-8) = -"
+  },
+  {
+    "problem_index": 57,
+    "question": "\"Factor the polynomial x^2 - 5x + 6.\"",
+    "actual_answer": "(x-3)(x-2)",
+    "level": "High",
+    "generated_solution": "To factor the polynomial \\( x^2 - 5x + 6 \\), we need to find two numbers that multiply to 6 (the constant term) and add up to -5 (the coefficient of the middle term).\n\n### Step-by-step solution:\n1. Identify the coefficients:\n   - The polynomial is in the form \\( x^2 + bx + c \\), where \\( b = -5 \\) and \\( c = 6 \\).\n2. Find two numbers that multiply to \\( c = 6 \\) and add up to \\( b = -5 \\):\n   - The numbers are -2 and -3 because:\n     - \\( (-2) \\cdot (-3) = 6 \\)\n     - \\( (-2) + (-3) = -5 \\)\n3. Write the factored form using these numbers:\n   - The factored form is \\( (x - 2)(x - 3) \\).\n\n### Final answer:\nThe factored form of \\( x^2 - 5x + 6 \\) is:\n\\[\n(x - 2)(x - 3)\n\\]\n\nFINAL_ANSWER: \\( (x - 2)(x - 3) \\)",
+    "generated_answer": "\\( (x - 2)(x - 3) \\)"
+  },
+  {
+    "problem_index": 58,
+    "question": "\"Find the roots of the polynomial x^3 - 3x^2 - 4x + 12.\"",
+    "actual_answer": "(x+2)(x-2)(x-3)",
+    "level": "High",
+    "generated_solution": "To find the roots of the polynomial \\( x^3 - 3x^2 - 4x + 12 \\), we will follow these steps:\n\n---\n\n### Step 1: Use the Rational Root Theorem\nThe Rational Root Theorem states that any possible rational root of the polynomial \\( P(x) = a_nx^n + \\dots + a_0 \\) is of the form \\( \\frac{p}{q} \\), where:\n- \\( p \\) is a factor of the constant term \\( a_0 \\),\n- \\( q \\) is a factor of the leading coefficient \\( a_n \\).\n\nFor \\( P(x) = x^3 - 3x^2 - 4x + 12 \\):\n- The constant term \\( a_0 = 12 \\), so \\( p \\) can be \\( \\pm1, \\pm2, \\pm3, \\pm4, \\pm6, \\pm12 \\).\n- The leading coefficient \\( a_n = 1 \\), so \\( q = 1 \\).\n\nThus, the possible rational roots are \\( \\pm1, \\pm2, \\pm3, \\pm4, \\pm6, \\pm12 \\).\n\n---\n\n### Step 2: Test the possible roots\nWe substitute the possible roots into \\( P(x) \\) to find which ones satisfy \\( P(x) = 0 \\).\n\n1. Test \\( x = 2 \\):\n   \\[\n   P(2) = (2)^3 - 3(2)^2 - 4(2) + 12 = 8 - 12 - 8 + 12 = 0\n   \\]\n   So, \\( x = 2 \\) is a root.\n\n2. Test \\( x = 3 \\):\n   \\[\n   P(3) = (3)^3 - 3(3)^2 - 4(3) + 12 = 27 - 27 - 12 + 12 = 0\n   \\]\n   So, \\( x = 3 \\) is also a root.\n\n3. Test \\( x = -2 \\):\n   \\[\n   P(-2) = (-2)^3 - 3(-2)^2 - 4(-2) + 12 = -8 - 12 + 8 + 12 = 0\n   \\]\n   So, \\( x = -2 \\) is another root.\n\n---\n\n### Step 3:",
+    "generated_answer": "### Step 3:"
+  },
+  {
+    "problem_index": 59,
+    "question": "\"Describe the end behavior of the polynomial f(x) = -2x^4 + 3x^2 - 1.\"",
+    "actual_answer": "f(x) approaches -inf as x approaches -inf/inf",
+    "level": "High",
+    "generated_solution": "To describe the end behavior of the polynomial \\( f(x) = -2x^4 + 3x^2 - 1 \\), we analyze the leading term of the polynomial, which is the term with the highest degree. Here, the leading term is \\( -2x^4 \\).\n\n### Step-by-Step Solution:\n1. **Identify the leading term**: The leading term is \\( -2x^4 \\).\n2. **Determine the degree and coefficient**: The degree is 4 (an even number), and the coefficient is \\(-2\\) (a negative number).\n3. **End behavior for even-degree polynomials**:\n   - If the leading coefficient is **positive**, the polynomial rises to \\( +\\infty \\) as \\( x \\) approaches \\( +\\infty \\) and \\( -\\infty \\).\n   - If the leading coefficient is **negative**, the polynomial falls to \\( -\\infty \\) as \\( x \\) approaches \\( +\\infty \\) and \\( -\\infty \\).\n\nSince the leading coefficient is negative and the degree is even:\n- As \\( x \\to +\\infty \\), \\( f(x) \\to -\\infty \\).\n- As \\( x \\to -\\infty \\), \\( f(x) \\to -\\infty \\).\n\n### Final Answer:\nThe end behavior of \\( f(x) = -2x^4 + 3x^2 - 1 \\) is:\n- As \\( x \\to +\\infty \\), \\( f(x) \\to -\\infty \\).\n- As \\( x \\to -\\infty \\), \\( f(x) \\to -\\infty \\).\n\nFINAL_ANSWER: As \\( x \\to +\\infty \\), \\( f(x) \\to -\\infty \\); as \\( x \\to -\\infty \\), \\( f(x) \\to -\\infty \\).",
+    "generated_answer": "As \\( x \\to +\\infty \\), \\( f(x) \\to -\\infty \\); as \\( x \\to -\\infty \\), \\( f(x) \\to -\\infty \\)."
+  },
+  {
+    "problem_index": 60,
+    "question": "\"Given the points (1, 2), (2, 3), and (3, 5), find the quadratic polynomial that passes through these points.\"",
+    "actual_answer": "1/2x^2 -1/2x +2",
+    "level": "High",
+    "generated_solution": "To find the quadratic polynomial \\( y = ax^2 + bx + c \\) that passes through the points \\( (1, 2) \\), \\( (2, 3) \\), and \\( (3, 5) \\), we can set up a system of equations using these points.\n\n---\n\n### Step 1: Substitute the points into the quadratic equation\nFor each point \\( (x, y) \\), substitute \\( x \\) and \\( y \\) into \\( y = ax^2 + bx + c \\):\n\n1. For \\( (1, 2) \\):\n   \\[\n   2 = a(1)^2 + b(1) + c \\implies 2 = a + b + c\n   \\]\n\n2. For \\( (2, 3) \\):\n   \\[\n   3 = a(2)^2 + b(2) + c \\implies 3 = 4a + 2b + c\n   \\]\n\n3. For \\( (3, 5) \\):\n   \\[\n   5 = a(3)^2 + b(3) + c \\implies 5 = 9a + 3b + c\n   \\]\n\n---\n\n### Step 2: Write the system of equations\nThe system of equations is:\n\\[\n\\begin{cases}\na + b + c = 2 \\quad \\text{(1)} \\\\\n4a + 2b + c = 3 \\quad \\text{(2)} \\\\\n9a + 3b + c = 5 \\quad \\text{(3)}\n\\end{cases}\n\\]\n\n---\n\n### Step 3: Solve the system of equations\nSubtract equation (1) from equation (2):\n\\[\n(4a + 2b + c) - (a + b + c) = 3 - 2\n\\]\n\\[\n3a + b = 1 \\quad \\text{(4)}\n\\]\n\nSubtract equation (2) from equation (3):\n\\[\n(9a + 3b + c) - (4a + 2b + c) = 5 - 3\n\\]\n\\[\n5a + b = 2 \\quad \\text{(5)}\n\\]\n\nSubtract equation (4) from equation (5):\n\\[\n(5a + b) - (3a + b) = 2 - 1\n\\]\n\\[\n2a = 1 \\implies",
+    "generated_answer": "2a = 1 \\implies"
+  },
+  {
+    "problem_index": 61,
+    "question": "Find the eigenvalues of the matrix A = [[3, 1], [1, 3]].",
+    "actual_answer": "2,4",
+    "level": "College",
+    "generated_solution": "To find the eigenvalues of the matrix \\( A = \\begin{bmatrix} 3 & 1 \\\\ 1 & 3 \\end{bmatrix} \\), we follow these steps:\n\n---\n\n### Step 1: Write the characteristic equation\nThe eigenvalues of a matrix \\( A \\) are found by solving the characteristic equation:\n\\[\n\\det(A - \\lambda I) = 0,\n\\]\nwhere \\( \\lambda \\) is the eigenvalue, \\( I \\) is the identity matrix, and \\( \\det \\) denotes the determinant.\n\nFor the given matrix \\( A \\), the characteristic equation becomes:\n\\[\n\\det\\left(\\begin{bmatrix} 3 & 1 \\\\ 1 & 3 \\end{bmatrix} - \\lambda \\begin{bmatrix} 1 & 0 \\\\ 0 & 1 \\end{bmatrix}\\right) = 0.\n\\]\n\n---\n\n### Step 2: Subtract \\( \\lambda I \\) from \\( A \\)\nSubtract \\( \\lambda I \\) from \\( A \\):\n\\[\nA - \\lambda I = \\begin{bmatrix} 3 - \\lambda & 1 \\\\ 1 & 3 - \\lambda \\end{bmatrix}.\n\\]\n\n---\n\n### Step 3: Compute the determinant\nThe determinant of \\( A - \\lambda I \\) is:\n\\[\n\\det(A - \\lambda I) = (3 - \\lambda)(3 - \\lambda) - (1)(1).\n\\]\nSimplify:\n\\[\n\\det(A - \\lambda I) = (3 - \\lambda)^2 - 1.\n\\]\n\n---\n\n### Step 4: Expand and solve for \\( \\lambda \\)\nExpand \\( (3 - \\lambda)^2 - 1 \\):\n\\[\n(3 - \\lambda)^2 - 1 = 9 - 6\\lambda + \\lambda^2 - 1 = \\lambda^2 - 6\\lambda + 8.\n\\]\nSet the determinant equal to zero:\n\\[\n\\lambda^2 - 6\\lambda + 8 = 0.\n\\]\n\nSolve the quadratic equation:\n\\[\n\\lambda = \\frac{6 \\pm \\sqrt{(-6)^2 - 4(1)(8)}}{2(1)} = \\frac{6 \\pm \\sqrt{36 - 32}}{2} = \\frac{6 \\pm \\sqrt{4}}{2}.\n\\]\n\\[\n\\lambda = \\frac{6 \\pm 2}{2}.\n\\]\n\n---\n\n### Step 5: Find the eigenvalues\n",
+    "generated_answer": ""
+  },
+  {
+    "problem_index": 62,
+    "question": "Calculate the determinant of the matrix A = [[2, 3], [5, 4]].",
+    "actual_answer": "-7",
+    "level": "College",
+    "generated_solution": "To calculate the determinant of a 2x2 matrix \\( A = \\begin{bmatrix} a & b \\\\ c & d \\end{bmatrix} \\), we use the formula:\n\n\\[\n\\text{det}(A) = ad - bc\n\\]\n\nFor the given matrix \\( A = \\begin{bmatrix} 2 & 3 \\\\ 5 & 4 \\end{bmatrix} \\):\n\n1. Identify the values:\n   - \\( a = 2 \\)\n   - \\( b = 3 \\)\n   - \\( c = 5 \\)\n   - \\( d = 4 \\)\n\n2. Substitute into the formula:\n   \\[\n   \\text{det}(A) = (2)(4) - (3)(5)\n   \\]\n\n3. Perform the calculations:\n   \\[\n   \\text{det}(A) = 8 - 15\n   \\]\n\n4. Final result:\n   \\[\n   \\text{det}(A) = -7\n   \\]\n\nFINAL_ANSWER: -7",
+    "generated_answer": "-7"
+  },
+  {
+    "problem_index": 63,
+    "question": "Evaluate the limit: lim (x -> 0) (sin(x)/x).",
+    "actual_answer": "1",
+    "level": "College",
+    "generated_solution": "To evaluate the limit \\(\\lim_{x \\to 0} \\frac{\\sin(x)}{x}\\), we can use the **squeeze theorem** or recognize it as a standard limit in calculus. Here's the step-by-step solution:\n\n---\n\n### Step 1: Recognize the standard limit\nThe limit \\(\\lim_{x \\to 0} \\frac{\\sin(x)}{x}\\) is a well-known result in calculus. It is equal to **1**.\n\n---\n\n### Step 2: Verify using the squeeze theorem (optional)\nIf you want to verify this result, you can use the squeeze theorem. For small values of \\(x\\) (close to 0), we know:\n\\[\n\\cos(x) \\leq \\frac{\\sin(x)}{x} \\leq 1.\n\\]\nAs \\(x \\to 0\\), \\(\\cos(x) \\to 1\\), and the inequality becomes:\n\\[\n1 \\leq \\frac{\\sin(x)}{x} \\leq 1.\n\\]\nBy the squeeze theorem, \\(\\frac{\\sin(x)}{x}\\) must also approach **1**.\n\n---\n\n### Step 3: Final answer\nThe limit evaluates to:\n\\[\n\\lim_{x \\to 0} \\frac{\\sin(x)}{x} = 1.\n\\]\n\n---\n\nFINAL_ANSWER: 1",
+    "generated_answer": "1"
+  },
+  {
+    "problem_index": 64,
+    "question": "Calculate the integral: \u222b from -infty to infty of (x^2) dx.",
+    "actual_answer": "x^3/3 +C (divergent) ",
+    "level": "College",
+    "generated_solution": "To solve the integral \\(\\int_{-\\infty}^{\\infty} x^2 \\, dx\\), let's analyze it step by step.\n\n---\n\n### Step 1: Understand the integral\nThe integral \\(\\int_{-\\infty}^{\\infty} x^2 \\, dx\\) is an improper integral because the limits of integration are infinite. To evaluate it, we need to consider the behavior of \\(x^2\\) as \\(x\\) approaches \\(\\pm\\infty\\).\n\n---\n\n### Step 2: Break the integral into two parts\nWe can split the integral into two parts:\n\\[\n\\int_{-\\infty}^{\\infty} x^2 \\, dx = \\int_{-\\infty}^{0} x^2 \\, dx + \\int_{0}^{\\infty} x^2 \\, dx.\n\\]\n\n---\n\n### Step 3: Evaluate each part\nLet's evaluate \\(\\int_{0}^{\\infty} x^2 \\, dx\\) first. We use the limit definition of an improper integral:\n\\[\n\\int_{0}^{\\infty} x^2 \\, dx = \\lim_{b \\to \\infty} \\int_{0}^{b} x^2 \\, dx.\n\\]\n\nThe antiderivative of \\(x^2\\) is \\(\\frac{x^3}{3}\\), so:\n\\[\n\\int_{0}^{b} x^2 \\, dx = \\left. \\frac{x^3}{3} \\right|_{0}^{b} = \\frac{b^3}{3} - 0 = \\frac{b^3}{3}.\n\\]\n\nNow, take the limit as \\(b \\to \\infty\\):\n\\[\n\\lim_{b \\to \\infty} \\frac{b^3}{3} = \\infty.\n\\]\n\nThus, \\(\\int_{0}^{\\infty} x^2 \\, dx\\) diverges to \\(\\infty\\).\n\nSimilarly, \\(\\int_{-\\infty}^{0} x^2 \\, dx\\) also diverges to \\(\\infty\\) because \\(x^2\\) is symmetric about the y-axis.\n\n---\n\n### Step 4: Conclusion\nSince both parts of the integral diverge to \\(\\infty\\), the entire integral \\(\\int_{-\\infty}^{\\infty} x^2 \\, dx\\) diverges.\n\n---\n\nFINAL_ANSWER: The integral diverges.",
+    "generated_answer": "The integral diverges."
+  },
+  {
+    "problem_index": 65,
+    "question": "\"If the mean of a normal distribution is 10 and the standard deviation is 2, what is the probability that a value is less than 8?\"",
+    "actual_answer": "0.15866",
+    "level": "College",
+    "generated_solution": "To solve this problem, we need to calculate the probability that a value from a normal distribution with a mean of 10 and a standard deviation of 2 is less than 8. Here's the step-by-step process:\n\n---\n\n### Step 1: Understand the problem\nWe are given:\n- Mean (\u03bc) = 10\n- Standard deviation (\u03c3) = 2\n- We need to find \\( P(X < 8) \\), where \\( X \\) is a random variable from this normal distribution.\n\n---\n\n### Step 2: Convert the value to a z-score\nThe z-score formula is:\n\\[\nz = \\frac{X - \\mu}{\\sigma}\n\\]\nSubstitute \\( X = 8 \\), \\( \\mu = 10 \\), and \\( \\sigma = 2 \\):\n\\[\nz = \\frac{8 - 10}{2} = \\frac{-2}{2} = -1\n\\]\n\n---\n\n### Step 3: Use the z-score to find the probability\nThe z-score of \\(-1\\) corresponds to the probability that a value is less than 8. Using a standard normal distribution table or calculator, we find:\n\\[\nP(Z < -1) = 0.1587\n\\]\n\n---\n\n### Step 4: Final answer\nThe probability that a value is less than 8 is:\n\\[\nP(X < 8) = 0.1587\n\\]\n\nFINAL_ANSWER: 0.1587",
+    "generated_answer": "0.1587"
+  },
+  {
+    "problem_index": 66,
+    "question": "\"What is the variance of a binomial distribution with n = 10 and p = 0.5?\"",
+    "actual_answer": "2.5",
+    "level": "College",
+    "generated_solution": "To solve this problem, we will use the formula for the variance of a binomial distribution. The variance \\( \\sigma^2 \\) of a binomial distribution is given by:\n\n\\[\n\\sigma^2 = n \\cdot p \\cdot (1 - p)\n\\]\n\nWhere:\n- \\( n \\) is the number of trials,\n- \\( p \\) is the probability of success on a single trial.\n\nGiven:\n- \\( n = 10 \\),\n- \\( p = 0.5 \\).\n\nStep-by-step solution:\n1. Substitute the given values into the formula:\n   \\[\n   \\sigma^2 = 10 \\cdot 0.5 \\cdot (1 - 0.5)\n   \\]\n2. Calculate \\( 1 - 0.5 \\):\n   \\[\n   1 - 0.5 = 0.5\n   \\]\n3. Multiply the values:\n   \\[\n   \\sigma^2 = 10 \\cdot 0.5 \\cdot 0.5\n   \\]\n4. Perform the multiplication:\n   \\[\n   \\sigma^2 = 10 \\cdot 0.25 = 2.5\n   \\]\n\nFinal Answer:\nThe variance of the binomial distribution is \\( 2.5 \\).\n\nFINAL_ANSWER: 2.5",
+    "generated_answer": "2.5"
+  },
+  {
+    "problem_index": 67,
+    "question": "\"Solve the first-order differential equation dy/dx = 3y with y(0) = 2.\"",
+    "actual_answer": "2e^(3x)",
+    "level": "College",
+    "generated_solution": "To solve the first-order differential equation \\( \\frac{dy}{dx} = 3y \\) with the initial condition \\( y(0) = 2 \\), follow these steps:\n\n---\n\n### Step 1: Separate variables\nThe equation is separable, so we rewrite it as:\n\\[\n\\frac{dy}{y} = 3 \\, dx\n\\]\n\n---\n\n### Step 2: Integrate both sides\nIntegrate both sides of the equation:\n\\[\n\\int \\frac{dy}{y} = \\int 3 \\, dx\n\\]\n\\[\n\\ln|y| = 3x + C\n\\]\nwhere \\( C \\) is the constant of integration.\n\n---\n\n### Step 3: Solve for \\( y \\)\nExponentiate both sides to solve for \\( y \\):\n\\[\ny = e^{3x + C}\n\\]\n\\[\ny = e^C \\cdot e^{3x}\n\\]\nLet \\( e^C = C_1 \\), where \\( C_1 \\) is a new constant:\n\\[\ny = C_1 e^{3x}\n\\]\n\n---\n\n### Step 4: Apply the initial condition\nUse the initial condition \\( y(0) = 2 \\) to find \\( C_1 \\):\n\\[\n2 = C_1 e^{3(0)}\n\\]\n\\[\n2 = C_1 \\cdot 1\n\\]\n\\[\nC_1 = 2\n\\]\n\n---\n\n### Step 5: Write the final solution\nSubstitute \\( C_1 = 2 \\) into the equation:\n\\[\ny = 2e^{3x}\n\\]\n\n---\n\nFINAL_ANSWER: \\( y = 2e^{3x} \\)",
+    "generated_answer": "\\( y = 2e^{3x} \\)"
+  },
+  {
+    "problem_index": 68,
+    "question": "\"Find the general solution of the differential equation y'' - 4y' + 4y = 0.\"",
+    "actual_answer": "y=ae^2t + bte^2t",
+    "level": "College",
+    "generated_solution": "To solve the differential equation \\( y'' - 4y' + 4y = 0 \\), we follow these steps:\n\n---\n\n### Step 1: Write the characteristic equation\nThe given differential equation is a second-order linear homogeneous differential equation with constant coefficients. We first write its characteristic equation by replacing \\( y'' \\) with \\( r^2 \\), \\( y' \\) with \\( r \\), and \\( y \\) with 1:\n\n\\[\nr^2 - 4r + 4 = 0\n\\]\n\n---\n\n### Step 2: Solve the characteristic equation\nSolve the quadratic equation \\( r^2 - 4r + 4 = 0 \\):\n\n\\[\nr = \\frac{4 \\pm \\sqrt{(-4)^2 - 4 \\cdot 1 \\cdot 4}}{2 \\cdot 1}\n\\]\n\n\\[\nr = \\frac{4 \\pm \\sqrt{16 - 16}}{2}\n\\]\n\n\\[\nr = \\frac{4 \\pm 0}{2}\n\\]\n\n\\[\nr = 2\n\\]\n\nThe characteristic equation has a repeated root \\( r = 2 \\).\n\n---\n\n### Step 3: Write the general solution\nFor a repeated root \\( r = 2 \\), the general solution of the differential equation is:\n\n\\[\ny(x) = (C_1 + C_2 x) e^{2x}\n\\]\n\nHere, \\( C_1 \\) and \\( C_2 \\) are arbitrary constants.\n\n---\n\n### Final Answer:\nThe general solution of the differential equation \\( y'' - 4y' + 4y = 0 \\) is:\n\n\\[\ny(x) = (C_1 + C_2 x) e^{2x}\n\\]\n\nFINAL_ANSWER: \\( y(x) = (C_1 + C_2 x) e^{2x} \\)",
+    "generated_answer": "\\( y(x) = (C_1 + C_2 x) e^{2x} \\)"
+  },
+  {
+    "problem_index": 69,
+    "question": "Find the GCD of 48 and 18.",
+    "actual_answer": "6",
+    "level": "College",
+    "generated_solution": "To find the **Greatest Common Divisor (GCD)** of 48 and 18, we can use the **Euclidean Algorithm**. Here's the step-by-step process:\n\n1. **Divide 48 by 18**:\n   - 48 \u00f7 18 = 2 with a remainder of 12.\n   - So, 48 = 18 \u00d7 2 + 12.\n\n2. **Now, replace 48 with 18 and 18 with the remainder 12**:\n   - 18 \u00f7 12 = 1 with a remainder of 6.\n   - So, 18 = 12 \u00d7 1 + 6.\n\n3. **Replace 18 with 12 and 12 with the remainder 6**:\n   - 12 \u00f7 6 = 2 with a remainder of 0.\n   - So, 12 = 6 \u00d7 2 + 0.\n\n4. **When the remainder is 0, the process stops**. The last non-zero remainder is the GCD.\n\nThus, the **GCD of 48 and 18 is 6**.\n\nFINAL_ANSWER: 6",
+    "generated_answer": "6"
+  },
+  {
+    "problem_index": 70,
+    "question": "Determine the prime factorization of 60.",
+    "actual_answer": "2 x 2 x 3 x 5",
+    "level": "College",
+    "generated_solution": "To determine the prime factorization of 60, we break it down into its prime factors step by step:\n\n1. Start with the smallest prime number, which is 2.  \n   - 60 \u00f7 2 = 30.  \n   So, 2 is a prime factor.\n\n2. Divide 30 by 2 again:  \n   - 30 \u00f7 2 = 15.  \n   So, 2 is a prime factor again.\n\n3. Now, 15 is not divisible by 2, so we move to the next prime number, which is 3.  \n   - 15 \u00f7 3 = 5.  \n   So, 3 is a prime factor.\n\n4. Finally, 5 is a prime number itself.  \n   So, 5 is a prime factor.\n\nNow, we combine all the prime factors:  \n**60 = 2 \u00d7 2 \u00d7 3 \u00d7 5**, or in exponential form:  \n**60 = 2\u00b2 \u00d7 3 \u00d7 5**.\n\nFINAL_ANSWER: 60 = 2\u00b2 \u00d7 3 \u00d7 5",
+    "generated_answer": "60 = 2\u00b2 \u00d7 3 \u00d7 5"
+  },
+  {
+    "problem_index": 71,
+    "question": "If A = {1, 2, 3} and B = {2, 3, 4}, find |A \u222a B|.",
+    "actual_answer": "1,2,3,4",
+    "level": "College",
+    "generated_solution": "To solve the problem, we need to find the cardinality (size) of the union of sets \\( A \\) and \\( B \\), denoted as \\( |A \\cup B| \\).\n\n### Step-by-step solution:\n1. **Given sets:**\n   - \\( A = \\{1, 2, 3\\} \\)\n   - \\( B = \\{2, 3, 4\\} \\)\n\n2. **Find the union of \\( A \\) and \\( B \\):**\n   The union of two sets includes all unique elements from both sets. So:\n   \\[\n   A \\cup B = \\{1, 2, 3, 4\\}\n   \\]\n\n3. **Find the cardinality of \\( A \\cup B \\):**\n   The cardinality of a set is the number of elements in the set. Here, \\( A \\cup B \\) has 4 elements: 1, 2, 3, and 4.\n\n4. **Final answer:**\n   \\[\n   |A \\cup B| = 4\n   \\]\n\nFINAL_ANSWER: 4",
+    "generated_answer": "4"
+  },
+  {
+    "problem_index": 72,
+    "question": "If A = {1, 2, 3} and B = {2, 3, 4}, find |A \u2229 B|.",
+    "actual_answer": "2,3",
+    "level": "College",
+    "generated_solution": "To solve this problem, we need to find the cardinality of the intersection of sets \\( A \\) and \\( B \\), denoted as \\( |A \\cap B| \\).\n\n### Step-by-step solution:\n1. **Identify the sets:**\n   - \\( A = \\{1, 2, 3\\} \\)\n   - \\( B = \\{2, 3, 4\\} \\)\n\n2. **Find the intersection of \\( A \\) and \\( B \\):**\n   - The intersection \\( A \\cap B \\) consists of elements that are common to both \\( A \\) and \\( B \\).\n   - Comparing the elements of \\( A \\) and \\( B \\), the common elements are \\( 2 \\) and \\( 3 \\).\n\n3. **Write the intersection set:**\n   - \\( A \\cap B = \\{2, 3\\} \\)\n\n4. **Find the cardinality of \\( A \\cap B \\):**\n   - The cardinality of a set is the number of elements in the set.\n   - \\( A \\cap B \\) has 2 elements.\n\n### Final Answer:\nThe cardinality of \\( A \\cap B \\) is \\( 2 \\).\n\nFINAL_ANSWER: 2",
+    "generated_answer": "2"
+  },
+  {
+    "problem_index": 73,
+    "question": "Find the distance between the points (1, 2, 3) and (4, 6, 8).",
+    "actual_answer": "sqrt(50)",
+    "level": "College",
+    "generated_solution": "To find the distance between the points \\( (1, 2, 3) \\) and \\( (4, 6, 8) \\), we use the **3D distance formula**:\n\n\\[\nd = \\sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2 + (z_2 - z_1)^2}\n\\]\n\n### Step-by-step solution:\n1. Identify the coordinates:\n   - Point 1: \\( (x_1, y_1, z_1) = (1, 2, 3) \\)\n   - Point 2: \\( (x_2, y_2, z_2) = (4, 6, 8) \\)\n\n2. Compute the differences:\n   - \\( x_2 - x_1 = 4 - 1 = 3 \\)\n   - \\( y_2 - y_1 = 6 - 2 = 4 \\)\n   - \\( z_2 - z_1 = 8 - 3 = 5 \\)\n\n3. Square the differences:\n   - \\( (x_2 - x_1)^2 = 3^2 = 9 \\)\n   - \\( (y_2 - y_1)^2 = 4^2 = 16 \\)\n   - \\( (z_2 - z_1)^2 = 5^2 = 25 \\)\n\n4. Add the squared differences:\n   - \\( 9 + 16 + 25 = 50 \\)\n\n5. Take the square root:\n   - \\( d = \\sqrt{50} = \\sqrt{25 \\cdot 2} = 5\\sqrt{2} \\)\n\n### Final Answer:\nThe distance between the points \\( (1, 2, 3) \\) and \\( (4, 6, 8) \\) is \\( 5\\sqrt{2} \\).\n\nFINAL_ANSWER: \\( 5\\sqrt{2} \\)",
+    "generated_answer": "\\( 5\\sqrt{2} \\)"
+  },
+  {
+    "problem_index": 74,
+    "question": "Calculate the volume of a cylinder with radius 3 and height 5.",
+    "actual_answer": "45 pi",
+    "level": "College",
+    "generated_solution": "To calculate the volume of a cylinder, we use the formula:\n\n\\[\nV = \\pi r^2 h\n\\]\n\nWhere:\n- \\( V \\) is the volume,\n- \\( r \\) is the radius of the cylinder,\n- \\( h \\) is the height of the cylinder.\n\nGiven:\n- Radius \\( r = 3 \\),\n- Height \\( h = 5 \\).\n\nStep-by-step solution:\n1. Substitute the given values into the formula:\n   \\[\n   V = \\pi (3)^2 (5)\n   \\]\n2. Calculate \\( (3)^2 \\):\n   \\[\n   (3)^2 = 9\n   \\]\n3. Multiply by the height \\( 5 \\):\n   \\[\n   9 \\times 5 = 45\n   \\]\n4. Multiply by \\( \\pi \\):\n   \\[\n   V = 45\\pi\n   \\]\n\nSo, the volume of the cylinder is \\( 45\\pi \\).\n\nFINAL_ANSWER: \\( 45\\pi \\)",
+    "generated_answer": "\\( 45\\pi \\)"
+  },
+  {
+    "problem_index": 75,
+    "question": "Calculate the inverse of the matrix A = [[1, 2], [3, 4]]",
+    "actual_answer": "[-2,1],[3/2,-1/2]",
+    "level": "College",
+    "generated_solution": "To calculate the inverse of a 2x2 matrix \\( A = \\begin{bmatrix} a & b \\\\ c & d \\end{bmatrix} \\), we use the formula:\n\n\\[\nA^{-1} = \\frac{1}{\\text{det}(A)} \\begin{bmatrix} d & -b \\\\ -c & a \\end{bmatrix}\n\\]\n\nwhere \\(\\text{det}(A) = ad - bc\\).\n\n### Step-by-step solution:\n1. Identify the elements of matrix \\( A \\):\n   \\[\n   A = \\begin{bmatrix} 1 & 2 \\\\ 3 & 4 \\end{bmatrix}\n   \\]\n   Here, \\( a = 1 \\), \\( b = 2 \\), \\( c = 3 \\), and \\( d = 4 \\).\n\n2. Calculate the determinant of \\( A \\):\n   \\[\n   \\text{det}(A) = ad - bc = (1)(4) - (2)(3) = 4 - 6 = -2\n   \\]\n\n3. Use the formula for the inverse:\n   \\[\n   A^{-1} = \\frac{1}{\\text{det}(A)} \\begin{bmatrix} d & -b \\\\ -c & a \\end{bmatrix} = \\frac{1}{-2} \\begin{bmatrix} 4 & -2 \\\\ -3 & 1 \\end{bmatrix}\n   \\]\n\n4. Simplify the inverse matrix:\n   \\[\n   A^{-1} = \\begin{bmatrix} \\frac{4}{-2} & \\frac{-2}{-2} \\\\ \\frac{-3}{-2} & \\frac{1}{-2} \\end{bmatrix} = \\begin{bmatrix} -2 & 1 \\\\ \\frac{3}{2} & -\\frac{1}{2} \\end{bmatrix}\n   \\]\n\n### Final Answer:\nThe inverse of matrix \\( A \\) is:\n\\[\nA^{-1} = \\begin{bmatrix} -2 & 1 \\\\ \\frac{3}{2} & -\\frac{1}{2} \\end{bmatrix}\n\\]\n\nFINAL_ANSWER: \\( A^{-1} = \\begin{bmatrix} -2 & 1 \\\\ \\frac{3}{2} & -\\frac{1}{2} \\end{bmatrix} \\)",
+    "generated_answer": "\\( A^{-1} = \\begin{bmatrix} -2 & 1 \\\\ \\frac{3}{2} & -\\frac{1}{2} \\end{bmatrix} \\)"
+  },
+  {
+    "problem_index": 76,
+    "question": "Evaluate the limit: lim (x -> \u221e) (1/x).",
+    "actual_answer": "0",
+    "level": "College",
+    "generated_solution": "To evaluate the limit \\(\\lim_{x \\to \\infty} \\frac{1}{x}\\), let's analyze the behavior of the function \\(\\frac{1}{x}\\) as \\(x\\) approaches infinity.\n\n### Step-by-step solution:\n1. As \\(x\\) becomes very large (approaches infinity), the denominator \\(x\\) grows without bound.\n2. The numerator \\(1\\) remains constant.\n3. As \\(x\\) increases, \\(\\frac{1}{x}\\) becomes smaller and smaller, approaching \\(0\\).\n\nThus, the limit is:\n\n\\[\n\\lim_{x \\to \\infty} \\frac{1}{x} = 0\n\\]\n\nFINAL_ANSWER: 0",
+    "generated_answer": "0"
+  },
+  {
+    "problem_index": 77,
+    "question": "Find the particular solution for y' + y = 0 with y(0) = 1",
+    "actual_answer": "y = e^(-x)",
+    "level": "College",
+    "generated_solution": "To solve the differential equation \\( y' + y = 0 \\) with the initial condition \\( y(0) = 1 \\), follow these steps:\n\n---\n\n### Step 1: Rewrite the differential equation\nThe given equation is:\n\\[\ny' + y = 0\n\\]\nThis is a first-order linear differential equation. Rewrite it in standard form:\n\\[\ny' = -y\n\\]\n\n---\n\n### Step 2: Solve the differential equation\nThis is a separable differential equation. Separate the variables:\n\\[\n\\frac{dy}{y} = -dx\n\\]\n\nIntegrate both sides:\n\\[\n\\int \\frac{1}{y} \\, dy = -\\int 1 \\, dx\n\\]\n\\[\n\\ln|y| = -x + C\n\\]\nwhere \\( C \\) is the constant of integration.\n\nExponentiate both sides to solve for \\( y \\):\n\\[\ny = e^{-x + C}\n\\]\n\\[\ny = e^C \\cdot e^{-x}\n\\]\n\nLet \\( e^C = A \\), where \\( A \\) is a constant. Then:\n\\[\ny = A e^{-x}\n\\]\n\n---\n\n### Step 3: Apply the initial condition\nUse the initial condition \\( y(0) = 1 \\) to find \\( A \\):\n\\[\ny(0) = A e^{-0} = A \\cdot 1 = A\n\\]\n\\[\n1 = A\n\\]\n\nThus, \\( A = 1 \\).\n\n---\n\n### Step 4: Write the particular solution\nSubstitute \\( A = 1 \\) into the general solution:\n\\[\ny = e^{-x}\n\\]\n\n---\n\n### Final Answer:\nThe particular solution is:\n\\[\ny = e^{-x}\n\\]\n\nFINAL_ANSWER: \\( y = e^{-x} \\)",
+    "generated_answer": "\\( y = e^{-x} \\)"
+  },
+  {
+    "problem_index": 78,
+    "question": "What is the least common multiple of 12 and 15?",
+    "actual_answer": "60",
+    "level": "College",
+    "generated_solution": "To find the least common multiple (LCM) of 12 and 15, we can use the prime factorization method.\n\n### Step 1: Find the prime factors of each number.\n- **12**:  \n  12 = 2 \u00d7 2 \u00d7 3 = \\(2^2 \\times 3^1\\)\n- **15**:  \n  15 = 3 \u00d7 5 = \\(3^1 \\times 5^1\\)\n\n### Step 2: Identify the highest power of each prime factor.\n- The prime factors involved are 2, 3, and 5.\n- The highest power of 2 is \\(2^2\\) (from 12).\n- The highest power of 3 is \\(3^1\\) (common in both 12 and 15).\n- The highest power of 5 is \\(5^1\\) (from 15).\n\n### Step 3: Multiply the highest powers of all prime factors.\n\\[\n\\text{LCM} = 2^2 \\times 3^1 \\times 5^1 = 4 \\times 3 \\times 5 = 60\n\\]\n\n### Final Answer:\nThe least common multiple of 12 and 15 is **60**.\n\nFINAL_ANSWER: 60",
+    "generated_answer": "60"
+  },
+  {
+    "problem_index": 79,
+    "question": "In a dice roll, what is the probability of rolling a sum of 7 with two dice?",
+    "actual_answer": "1/6",
+    "level": "College",
+    "generated_solution": "To solve this problem, let's break it down step by step:\n\n1. **Total possible outcomes when rolling two dice**:  \n   Each die has 6 faces, so the total number of possible outcomes when rolling two dice is:  \n   \\( 6 \\times 6 = 36 \\).\n\n2. **Favorable outcomes for a sum of 7**:  \n   The combinations of two dice that result in a sum of 7 are:  \n   (1, 6), (2, 5), (3, 4), (4, 3), (5, 2), and (6, 1).  \n   There are **6 favorable outcomes**.\n\n3. **Probability calculation**:  \n   Probability is calculated as:  \n   \\[\n   \\text{Probability} = \\frac{\\text{Number of favorable outcomes}}{\\text{Total number of possible outcomes}}\n   \\]  \n   Substituting the values:  \n   \\[\n   \\text{Probability} = \\frac{6}{36} = \\frac{1}{6}\n   \\]\n\n4. **Final answer**:  \n   The probability of rolling a sum of 7 with two dice is:  \n   \\[\n   \\frac{1}{6} \\quad \\text{or approximately} \\quad 0.1667\n   \\]\n\nFINAL_ANSWER: \\( \\frac{1}{6} \\) or 0.1667",
+    "generated_answer": "\\( \\frac{1}{6} \\) or 0.1667"
+  }
+]

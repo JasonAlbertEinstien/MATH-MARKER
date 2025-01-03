@@ -46,5 +46,3 @@ This project is licensed under the Creative Commons Attribution 4.0 Internationa
 Acknowledgments
 We would like to thank the contributors and researchers in educational technology and artificial intelligence for their invaluable insights and support. Special thanks to [Contributor Name] for their significant contributions.
 
-Contact
-For inquiries or further information, please reach out to us at: j2004nol@gmail.com.
